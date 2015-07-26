@@ -1,7 +1,7 @@
 Developing Data Products-Course Project
 ========================================================
-author: Sapna KUmari
-date: Sun Jul 26 02:27:13 2015
+author: Sapna Kumari
+date: Sun Jul 26 03:02:51 2015
 transition: rotate
 
 Introduction
